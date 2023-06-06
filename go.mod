@@ -1,3 +1,3 @@
-module banco
+module servidor
 
 go 1.20
